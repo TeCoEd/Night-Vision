@@ -1,7 +1,9 @@
 # Night-Vision
 A touch screen Night Vision camera written in Python
 
-* Final hardware features:
+![](images/camera.jpg)
+
+Final hardware features:
 * See in the dark (2m to 5m)
 * 4inch LCD touch screen
 * GUI controls
