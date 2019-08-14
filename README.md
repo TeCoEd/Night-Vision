@@ -1,7 +1,7 @@
 # Night-Vision
 A touch screen Night Vision camera written in Python
 
-![](images/camera.jpg)
+![](images/camera1.jpg)
 
 Final hardware features:
 * See in the dark (2m to 5m)
@@ -14,6 +14,10 @@ Final hardware features:
 * Capture images and stills
 
 The Night Vision combines an IR camera (infrared, which enables you to take photos and videos in the dark)  The program can be used with a normal camera board but will not have the 'night vision' properties.
+
+[Project Website](https://www.tecoed.co.uk/night-vision.html)
+
+[YouTube Video](https://www.youtube.com/watch?v=GPD-_b-RjIo)
 
 # Install software
 
@@ -31,4 +35,3 @@ sudo pip3 install guizero
 9.	Turn on the preview (no time limit)
 10.	Close the Night Vision GUI and shut down
 
-[Project Website](https://www.tecoed.co.uk/night-vision.html)
